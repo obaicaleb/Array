@@ -1,0 +1,15 @@
+E:\Xamarin\Functions\Getters and Setters\Getters and Setters\obj\Debug\net6.0\Getters and Setters.csproj.AssemblyReference.cache
+E:\Xamarin\Functions\Getters and Setters\Getters and Setters\obj\Debug\net6.0\Getters and Setters.GeneratedMSBuildEditorConfig.editorconfig
+E:\Xamarin\Functions\Getters and Setters\Getters and Setters\obj\Debug\net6.0\Getters and Setters.AssemblyInfoInputs.cache
+E:\Xamarin\Functions\Getters and Setters\Getters and Setters\obj\Debug\net6.0\Getters and Setters.AssemblyInfo.cs
+E:\Xamarin\Functions\Getters and Setters\Getters and Setters\obj\Debug\net6.0\Getters and Setters.csproj.CoreCompileInputs.cache
+E:\Xamarin\Functions\Getters and Setters\Getters and Setters\bin\Debug\net6.0\Getters and Setters.exe
+E:\Xamarin\Functions\Getters and Setters\Getters and Setters\bin\Debug\net6.0\Getters and Setters.deps.json
+E:\Xamarin\Functions\Getters and Setters\Getters and Setters\bin\Debug\net6.0\Getters and Setters.runtimeconfig.json
+E:\Xamarin\Functions\Getters and Setters\Getters and Setters\bin\Debug\net6.0\Getters and Setters.dll
+E:\Xamarin\Functions\Getters and Setters\Getters and Setters\bin\Debug\net6.0\Getters and Setters.pdb
+E:\Xamarin\Functions\Getters and Setters\Getters and Setters\obj\Debug\net6.0\Getters and Setters.dll
+E:\Xamarin\Functions\Getters and Setters\Getters and Setters\obj\Debug\net6.0\refint\Getters and Setters.dll
+E:\Xamarin\Functions\Getters and Setters\Getters and Setters\obj\Debug\net6.0\Getters and Setters.pdb
+E:\Xamarin\Functions\Getters and Setters\Getters and Setters\obj\Debug\net6.0\Getters and Setters.genruntimeconfig.cache
+E:\Xamarin\Functions\Getters and Setters\Getters and Setters\obj\Debug\net6.0\ref\Getters and Setters.dll
