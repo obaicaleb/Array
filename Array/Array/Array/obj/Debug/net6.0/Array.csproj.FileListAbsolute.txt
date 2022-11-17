@@ -1,0 +1,15 @@
+E:\Xamarin\Array\Array\Array\bin\Debug\net6.0\Array.exe
+E:\Xamarin\Array\Array\Array\bin\Debug\net6.0\Array.deps.json
+E:\Xamarin\Array\Array\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+E:\Xamarin\Array\Array\Array\bin\Debug\net6.0\Array.dll
+E:\Xamarin\Array\Array\Array\bin\Debug\net6.0\Array.pdb
+E:\Xamarin\Array\Array\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+E:\Xamarin\Array\Array\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Xamarin\Array\Array\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+E:\Xamarin\Array\Array\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+E:\Xamarin\Array\Array\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+E:\Xamarin\Array\Array\Array\obj\Debug\net6.0\Array.dll
+E:\Xamarin\Array\Array\Array\obj\Debug\net6.0\refint\Array.dll
+E:\Xamarin\Array\Array\Array\obj\Debug\net6.0\Array.pdb
+E:\Xamarin\Array\Array\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+E:\Xamarin\Array\Array\Array\obj\Debug\net6.0\ref\Array.dll
